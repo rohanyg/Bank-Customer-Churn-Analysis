@@ -84,9 +84,5 @@ lower bound 15 0r 16 % and the upper bound is 24 to 25 %  with 95 % confidence l
 
 
 ### Limitations 
-- The datasets might lack certain contextual information about the employees, such as personal challenges, external factors affecting their work, or specific project details. This missing context could limit the depth of your analysis.
--The analysis might not cover all relevant factors contributing to attrition, such as organizational culture, leadership styles, or macroeconomic factors. A more comprehensive analysis would require a broader scope.
-- The analysis appears to focus on descriptive statistics and visualization. While these provide insights into historical data, incorporating predictive models could enhance the project by forecasting future attrition trends.
-- Implementing A/B testing methodologies could provide a more scientific approach to understanding the impact of specific interventions or policies on employee attrition.
-- Machine learning algorithms, like classification or clustering, could offer deeper insights. Not utilizing advanced ML techniques might limit the depth of your analysis.
+
 
