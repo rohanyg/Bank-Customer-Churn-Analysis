@@ -42,12 +42,12 @@ Excel and CSV Datatypes
 - Data type standardization.
 - Formatting dates for consistency.
 - Formatted numerical data for consistency.
-- Handling the text values and removed special characters in name
-- 
+- Handling the text values and removed special characters in name.
+- Handled null values.
 
 ### Live Dashboard:
 Power BI:
-
+https://app.powerbi.com/groups/me/reports/b4596446-36f7-4495-96ec-4ff4f0b377eb/ReportSection?experience=power-bi
 
 
 ### Inferences
@@ -84,5 +84,8 @@ lower bound 15 0r 16 % and the upper bound is 24 to 25 %  with 95 % confidence l
 
 
 ### Limitations 
-
+- Might overlook external factors like economic conditions and competitive landscape impacting customer churn beyond internal data sources.
+- Analysis might not facilitate personalized strategies for individual customer retention due to generalized findings from aggregated data.
+- Analysis might provide insights at a specific point, lacking continuous monitoring and adjustment to adapt to evolving customer behaviors.
+- Analysis might highlight churn patterns but might not provide actionable insights or strategies to retain customers effectively.
 
