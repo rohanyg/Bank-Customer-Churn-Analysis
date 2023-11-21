@@ -47,8 +47,7 @@ Excel and CSV Datatypes
 
 ### Live Dashboard:
 Power BI:
-https://app.powerbi.com/groups/me/reports/b4596446-36f7-4495-96ec-4ff4f0b377eb/ReportSection?experience=power-bi
-
+https://app.powerbi.com/groups/me/reports/b4596446-36f7-4495-96ec-4ff4f0b377eb/ReportSection?clientSideAuth=0&experience=power-bi
 
 ### Inferences
 inferences from the analysis:
