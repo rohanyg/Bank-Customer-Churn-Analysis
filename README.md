@@ -49,42 +49,41 @@ Excel and CSV Datatypes
 Power BI:
 https://app.powerbi.com/groups/me/reports/b4596446-36f7-4495-96ec-4ff4f0b377eb/ReportSection?clientSideAuth=0&experience=power-bi
 
+![Churn_Analysis_page-0001](https://github.com/rohanyg/Bank-Customer-Churn-Analysis/assets/136742005/fa503967-7a51-4ea9-a54a-46cfdb9eb8af)
+
 ### Inferences
 inferences from the analysis:
 1. Total customers associated with the bank are 10,000.
 2. Churn Rate is 20.37 % .Which is higher than the healthy range , churn rate of 5-7% annually is considered average in the banking industry. So the bank should consider this as the serious problem and take necessary actions.
 3. Retention Rate 79.63 %. High retention rate indicates customer satisfaction and loyalty. Anything above 90% might be considered healthy.
-4. Active Customer Rate 51.51 %. Desired range for active customer rate is above 70-80%. These desired ranges can vary based on the bank's services and customer engagement strategies.
-5. Credit Card Holder Rate is 70.55 %. Bank is doing good in this case. Typically, a rate higher than 50-60% might be considered good, but this can vary widely.
-6. Customers have a varying number of products, typically ranging from 1 to 4. Products Per Customers is 1.53. Around 3-4 products per customer is often seen as a good benchmark.
-7. Average Tenure is 5 Years, Indicating the level of loyalty and the bank's ability to retain its customer base. 
-8. average age 39 . 
-9. Average Balance Per Customer is around 75k . Customers with a higher balance churn more which would be worrying to the bank as this impacts their source of loan capital.
-10. Churn Rate is minimum in Year 2016 that is 19.27 % and maximum in year 2017 that is 22.35 % . Also we have forecasted the Churn rate for the next four quarter predicting churn rate between
+4. Active Customer Rate 51.51 %. Desired range for active customer rate is above 70-80%. These desired ranges can vary based on the bank's services and customer engagement strategies.Inactive Customers have more churn rate.
+6. Credit Card Holder Rate is 70.55 %. Bank is doing good in this case. Typically, a rate higher than 50-60% might be considered good, but this can vary widely. But, churn rate is high in case of the credit card holders. People with fair and poor credit score are leaving the bank. 
+7. Customers have a varying number of products, typically ranging from 1 to 4. Products Per Customers is 1.53. Around 3-4 products per customer is often seen as a good benchmark. Most of customers has 1 or 2 products and churn rate is more in that range.
+8. Average Tenure is 5 Years, Indicating the level of loyalty and the bank's ability to retain its customer base. Most of the customers are leaving the bank within 4 to 5 years.
+9. Average age 39. Churn rate is high in case of age Late Adulthood age group. 
+10. Average Balance Per Customer is around 75k . Customers with a higher balance churn more which would be worrying to the bank as this impacts their source of loan capital.
+11. Churn Rate is minimum in Year 2016 that is 19.27 % and maximum in year 2017 that is 22.35 % . Also we have forecasted the Churn rate for the next four quarter predicting churn rate between
 lower bound 15 0r 16 % and the upper bound is 24 to 25 %  with 95 % confidence level.
-11. Churn rate is high in Female that is 60 % and on the other hand 40 % in case of male.
-12.	Churn Rate is highest in Germany that is  32.44 % and for both france and spain churn rate is around 16%. 
+12. Churn rate is high in female compared of male even though there are more male customers.
+13.	Churn Rate is highest in Germany that is  32.44 % and for both france and spain churn rate is around 16%. 
 
 
 ### Recommendations:
-1. Enhance customer service, resolving customers issues , offer personalized experiences to increase satisfaction
-2. Retention Programs: Implement loyalty programs, rewards for long-term customers to reduce churn.
-3. Communication: Regularly engage with customers via multiple channels, offering relevant updates and personalized offers.
+1. Enhance customer service, resolving customers issues , offer personalized experiences to increase satisfaction.
+2. Implement loyalty programs, rewards for long-term customers to reduce churn.
+3. Regularly engage with customers via multiple channels, offering relevant updates and personalized offers.
 4. Collect and act on customer feedback to address pain points and enhance overall satisfaction
-5. Customer Engagement: Encourage active participation in banking activities, offer exclusive benefits, and personalize services based on customer behavior.
-6. Train staff to recommend complementary products or services to existing customers based on their profiles and behavior.
-7. Customer Segmentation: Segment customers based on behavior and preferences, offering tailored packages to each segment. Like Investment products and insurance , credit cards , loans
-8. Financial Advisory Services: Provide personalized financial advice to customers to help them optimize their finances.Targeted Loan Products
-9. all these increses Average Customer Lifetime Value (CLV):The predicted net profit attributed to the entire future relationship with a customer.
-10. Upselling and Cross-Selling: Encourage additional purchases or upgrades of existing services by showcasing added value.
-11. Profitability: Longer-tenured customers tend to be more profitable as they utilize more services and products over time.  by incresing average tenure.
-12. Cost Savings: Acquiring new customers is more expensive than retaining existing ones; longer tenure indicates lower customer acquisition costs.
-
+5. Encourage active participation in banking activities, offer exclusive benefits, and personalize services based on customer behavior.
+6. Upselling and Cross-Selling; Train staff to recommend complementary products or services to existing customers based on their profiles and behavior.
+7. Customer Segmentation: Segment customers based on behavior and preferences, offering tailored packages to each segment. Like Investment products, insurance , credit cards and loans.
+8. Profitability: Longer-tenured customers tend to be more profitable as they utilize more services and products over time.
+9. Acquiring new customers is more expensive than retaining existing ones.All these increses Average Customer Lifetime Value 
 
 
 ### Limitations 
-- Might overlook external factors like economic conditions and competitive landscape impacting customer churn beyond internal data sources.
+- External factors like economic conditions and competitive landscape impacting customer churn are not considered in analysis.
 - Analysis might not facilitate personalized strategies for individual customer retention due to generalized findings from aggregated data.
 - Analysis might provide insights at a specific point, lacking continuous monitoring and adjustment to adapt to evolving customer behaviors.
-- Analysis might highlight churn patterns but might not provide actionable insights or strategies to retain customers effectively.
+- Analysis is based on the historical data and this may be not true in future.
+- This project will not accurately predict the customer churn in future. 
 
