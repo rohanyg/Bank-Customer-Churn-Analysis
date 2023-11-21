@@ -7,7 +7,7 @@ In this project , we aim to perform the data analysis on bank customers data to 
 - [Data Source](#data-source)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [Live Dashboard](#live-dashboard)
-- [Dashboard Image](#dashbboard-image)
+- [Dashboard Image](#dashboard-image)
 - [Inferences](#inferences)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
