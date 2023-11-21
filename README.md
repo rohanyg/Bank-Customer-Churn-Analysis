@@ -7,6 +7,7 @@ In this project , we aim to perform the data analysis on bank customers data to 
 - [Data Source](#data-source)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [Live Dashboard](#live-dashboard)
+- [Dashboard Image](#dashbboard-image)
 - [Inferences](#inferences)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
@@ -49,6 +50,7 @@ Excel and CSV Datatypes
 Power BI:
 https://app.powerbi.com/groups/me/reports/b4596446-36f7-4495-96ec-4ff4f0b377eb/ReportSection?clientSideAuth=0&experience=power-bi
 
+### Dashboard Image
 ![Churn_Analysis_page-0001](https://github.com/rohanyg/Bank-Customer-Churn-Analysis/assets/136742005/fa503967-7a51-4ea9-a54a-46cfdb9eb8af)
 
 ### Inferences
