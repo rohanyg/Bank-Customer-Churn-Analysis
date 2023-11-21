@@ -46,7 +46,7 @@ Excel and CSV Datatypes
 - Handling the text values and removed special characters in name.
 - Handled null values.
 
-### Live Dashboard:
+### Live Dashboard
 Power BI:
 https://app.powerbi.com/groups/me/reports/b4596446-36f7-4495-96ec-4ff4f0b377eb/ReportSection?clientSideAuth=0&experience=power-bi
 
