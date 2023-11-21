@@ -1,5 +1,5 @@
 # Bank-Customer-Churn-Analysis
-In this project , we aim to perform the data analysis on bank customers data to identify the reasons why customers leave the bank. Tools used for the analysis are Power BI and SQL.
+In this project , we aim to perform the data analysis on bank customers data to identify the reasons why customers leave the bank. Tools used for the analysis are Power BI, SQL and Excel.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -12,7 +12,7 @@ In this project , we aim to perform the data analysis on bank customers data to 
 - [Limitations](#limitations)
   
 ### Project Overview
-1. The aim of this project is to analyze the bank customers data to identify the factors contributing the customers churn using Power BI and SQL.
+1. The aim of this project is to analyze the bank customers data to identify the factors contributing the customers churn using Power BI, SQL and Excel.
 2. To gather valuable insights from the analysis to understand patterns, trends and correlations associated with bank customers data.
 3. To provide recommendations to the bank to mitigate churn.it allows banks to address customer needs, improve retention strategies, and save costs associated with acquiring new customers. Identifying at-risk customers allows banks to implement personalized retention strategies, improving customer experience and reducing attrition rates.
 
